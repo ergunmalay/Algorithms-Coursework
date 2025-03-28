@@ -7,8 +7,8 @@
 // Coursework 2024/2025
 //
 // Submission by
-// YOUR_NAME_GOES_HERE
-// YOUR_EMAIL_GOES_HERE
+// Ergun Malay
+// Ergun.Malay.2@city.ac.uk
 
 public class iAnalytics {
 
